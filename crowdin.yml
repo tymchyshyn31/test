@@ -1,5 +1,0 @@
-files:
-  - source: '*.md'
-    ignore:
-      - uk
-    translation: /%two_letters_code%/%original_file_name%
