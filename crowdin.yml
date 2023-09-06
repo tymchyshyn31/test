@@ -1,5 +1,6 @@
 files:
   - source: '*.md'
+    ignore_settings: 1
     ignore:
       - uk
     translation: /%two_letters_code%/%original_file_name%
